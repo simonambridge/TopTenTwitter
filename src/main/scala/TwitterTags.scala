@@ -12,10 +12,10 @@ object TwitterPopularTags {
     val checkpointDir = TwitterHelper.getCheckpointDirectory()
 
     // Configure Twitter credentials
-    val apiKey = "llYiWOxG6REyKQ1sKB4pvEzeK"
-    val apiSecret = "E2CTUmiJ8QsrIJ2xytzaTwfqxFJQIUJrRttT8xJ4MlQQ6dShCu"
-    val accessToken = "780456391-LJdU3eRwf774porQHlxjpvBjFUpn304eQYlg3Fgo"
-    val accessTokenSecret = "R3HXBfjgq4cN1xUgFlIdHZjJVYaZ5cvLrttR0q7uGWXcL"
+    val apiKey = ""
+    val apiSecret = ""
+    val accessToken = ""
+    val accessTokenSecret = ""
     TwitterHelper.configureTwitterCredentials(apiKey, apiSecret, accessToken, accessTokenSecret)
 
     // Your code goes here
